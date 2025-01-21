@@ -1,0 +1,1 @@
+A smart document processing and full-text search solution powered by OCR and AI. Extract, analyze, and search content within scanned documents efficiently. Ideal for handling large-scale document repositories with intelligent search capabilities.
